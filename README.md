@@ -27,16 +27,13 @@
 
   Ask me about C, C++, Python, javascript
 
-  💬 you can  reach me [here](https://github.com/salesp07/salesp07/issues)
+  💬 you can reach me in
 
  </div>
 
 
  
 <div align="center"> 
-  <a href="ziadhamdy667@gmail.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" width="48" />
-  </a>
   <a href="https://www.linkedin.com/in/ziad-hamdy-0a83651b1/" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="48"/>
   </a>
