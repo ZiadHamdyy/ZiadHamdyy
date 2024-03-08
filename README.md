@@ -27,13 +27,13 @@
 
   Ask me about C, C++, Python, javascript
 
-  💬 you can reach me in
+  💬 you can reach me here **ziadhamdy667@gmail.com**
 
  </div>
 
 
  
-<div align="center"> 
+<div align="center">
   <a href="https://www.linkedin.com/in/ziad-hamdy-0a83651b1/" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="48"/>
   </a>
@@ -44,8 +44,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,react,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,java,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,java,html,css,react" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,vscode,github,git,mongodb,mysql,flask" /><br>
 </div>
 
 <br/>
