@@ -23,7 +23,7 @@
  
  🔭 I’m Currently Computer Science Student
  
- 🌱 I’m currently learning Node.js, React, mongodb
+ 🌱 I’m currently learning Node.js, Express, mongodb, React
 
   Ask me about C, C++, Python, javascript
 
